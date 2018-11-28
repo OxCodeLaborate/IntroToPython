@@ -52,7 +52,8 @@ He provides a link to example code that requires python2. If you need help using
 
 ## Scheduling Your programs (MacOS)
 
-Unfortunately the method for doing this has been
+Unfortunately the method for doing this that was initially planned are now depracated / no longer in use. I couldn't locate a better tutorial for doing this, although it likely exists.
+
 
 ## Scheduling Your programs (Windows)
 
