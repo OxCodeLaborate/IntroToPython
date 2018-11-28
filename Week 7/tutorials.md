@@ -49,21 +49,13 @@ The models previously provided are far from state of the art. The best predictiv
 
 He provides a link to example code that requires python2. If you need help using python2, feel free to ask.
 
-
 ## Scheduling Your programs (MacOS)
 
-Unfortunately the method for doing this that was initially planned are now depracated / no longer in use. I couldn't locate a better tutorial for doing this, although it likely exists.
-
+Unfortunately the method for doing this that was initially planned is now no longer in use. I couldn't locate a better tutorial for doing this, although it likely exists.
 
 ## Scheduling Your programs (Windows)
 
 This brief tutorial will merely show you how to schedule your programs: http://desktop.arcgis.com/en/arcmap/10.3/analyze/executing-tools/scheduling-a-python-script-to-run-at-prescribed-times.htm
-
-
-## Webscraping 
-
-Reddit: https://www.scrapehero.com/web-scraping-tutorial-for-beginners-part-3-navigating-and-extracting-data/
-
 
 ## Making a Tweetbot
 
